@@ -54,3 +54,4 @@ novoSalario = salario + (porcentagem * salario);
 
 //Saída
 console.log(`\n${nome}, o seu Cargo é de ${nomeCargo} e o seu Salário Reajustado será R$${novoSalario.toFixed(2)}`)
+
